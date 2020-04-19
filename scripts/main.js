@@ -16,10 +16,10 @@ var tour = {
 };
 
 //While Loop
-var x = 0;
+var i = 0;
 
-while (x < 5) {
-  console.log('Times running through the loop: ' + x);
+while (i < 5) {
+  console.log('Times running through the loop: ' + i);
 
-  x++;
+  i++;
 }
